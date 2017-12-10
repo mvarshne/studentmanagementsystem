@@ -1,0 +1,7 @@
+C:\Manish\VSTest\Ciena25Sep2017\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Manish\VSTest\Ciena25Sep2017\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Manish\VSTest\Ciena25Sep2017\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Manish\VSTest\Ciena25Sep2017\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache
+C:\Manish\VSTest\Ciena25Sep2017\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Manish\VSTest\Ciena25Sep2017\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Manish\VSTest\Ciena25Sep2017\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
