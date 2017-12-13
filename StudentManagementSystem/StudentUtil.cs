@@ -32,10 +32,15 @@ namespace StudentManagementSystem
             return studentList.ToArray();
         }
 
-        public static void UpdateName(int sid)
+        public static void UpdateName(Student[] students, int sid, string newName)
         {
-            //implementation will be given later
-            Console.WriteLine("Hi I will update name of a student..");
+            foreach(var st in students)
+            {
+                if(st.Id == sid)
+                {
+                    st.Name = newName;
+                }
+            }
         }
 
         public static void UpdateState(int sid)
