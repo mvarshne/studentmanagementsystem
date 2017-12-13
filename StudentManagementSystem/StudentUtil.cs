@@ -41,6 +41,7 @@ namespace StudentManagementSystem
         public static void UpdateState(int sid)
         {
             //implementation will be given later
+            Console.WriteLine("Hi I will update the state of a student..");
         }
     }
 }
