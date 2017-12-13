@@ -31,5 +31,10 @@ namespace StudentManagementSystem
             }
             return studentList.ToArray();
         }
+
+        public static void UpdateName(int sid)
+        {
+            //implementation will be given later
+        }
     }
 }
