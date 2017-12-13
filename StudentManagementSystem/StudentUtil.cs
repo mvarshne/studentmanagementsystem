@@ -35,6 +35,7 @@ namespace StudentManagementSystem
         public static void UpdateName(int sid)
         {
             //implementation will be given later
+            Console.WriteLine("Hi I will update name of a student..");
         }
 
         public static void UpdateState(int sid)
