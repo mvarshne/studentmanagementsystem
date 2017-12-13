@@ -36,5 +36,10 @@ namespace StudentManagementSystem
         {
             //implementation will be given later
         }
+
+        public static void UpdateState(int sid)
+        {
+            //implementation will be given later
+        }
     }
 }
