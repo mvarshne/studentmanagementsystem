@@ -34,6 +34,7 @@ namespace StudentManagementSystem
 
         public static void UpdateName(Student[] students, int sid, string newName)
         {
+            Console.WriteLine("Updating Name");
             foreach(var st in students)
             {
                 if(st.Id == sid)
@@ -45,6 +46,7 @@ namespace StudentManagementSystem
 
         public static void UpdateState(Student[] students, int sid, string state)
         {
+            Console.WriteLine("Updating State");
             foreach (var st in students)
             {
                 if (st.Id == sid)
