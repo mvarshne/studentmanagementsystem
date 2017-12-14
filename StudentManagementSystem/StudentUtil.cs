@@ -61,5 +61,10 @@ namespace StudentManagementSystem
         {
             //empty method
         }
+
+        public static void SortByState(Student[] students)
+        {
+            //empty method
+        }
     }
 }
