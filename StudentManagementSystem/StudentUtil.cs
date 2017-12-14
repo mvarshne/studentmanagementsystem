@@ -59,7 +59,7 @@ namespace StudentManagementSystem
 
         public static void SortByName(Student[] students)
         {
-            //empty method
+            Console.WriteLine("inside sort by name method");
         }
 
         public static void SortByState(Student[] students)
