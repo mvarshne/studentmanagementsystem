@@ -43,10 +43,16 @@ namespace StudentManagementSystem
             }
         }
 
-        public static void UpdateState(int sid)
+        public static void UpdateState(Student[] students, int sid, string state)
         {
-            //implementation will be given later
-            Console.WriteLine("Hi I will update the state of a student..");
+            foreach (var st in students)
+            {
+                if (st.Id == sid)
+                {
+                    st.State = state;
+                }
+            }
+
         }
     }
 }
