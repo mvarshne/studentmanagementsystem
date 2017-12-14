@@ -56,5 +56,10 @@ namespace StudentManagementSystem
             }
 
         }
+
+        public static void SortByName(Student[] students)
+        {
+            //empty method
+        }
     }
 }
