@@ -59,10 +59,15 @@ namespace StudentManagementSystem
 
         public static void SortByName(Student[] students)
         {
-            //empty method
+            Console.WriteLine("sort by name method welcomes you");
         }
 
         public static void SortByState(Student[] students)
+        {
+            //empty method
+        }
+
+        public static void RemoveAllByName(Student[] students, string name)
         {
             //empty method
         }
