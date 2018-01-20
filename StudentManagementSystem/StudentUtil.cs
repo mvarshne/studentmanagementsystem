@@ -71,7 +71,7 @@ namespace StudentManagementSystem
         {
             Console.WriteLine("this is a remove all by name method");
 
-            Console.WriteLine("additional line in remove all by name method.");
+            Console.WriteLine("remove all by name is modified by master_merge_20Jan");
         }
     }
 }
