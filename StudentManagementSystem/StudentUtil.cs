@@ -80,5 +80,10 @@ namespace StudentManagementSystem
         {
 
         }
+
+        public static Student GetStudentWithLongestName(Student[] students)
+        {
+            return null;
+        }
     }
 }
