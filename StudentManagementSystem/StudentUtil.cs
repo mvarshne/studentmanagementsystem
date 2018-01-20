@@ -75,5 +75,10 @@ namespace StudentManagementSystem
 
             Console.WriteLine("line 1 added by remove all by name in support 1.0");
         }
+
+        public static void RemoveAllByState(Student[] students, string state)
+        {
+
+        }
     }
 }
