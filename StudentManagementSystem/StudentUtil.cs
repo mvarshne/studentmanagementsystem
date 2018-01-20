@@ -69,7 +69,7 @@ namespace StudentManagementSystem
 
         public static void RemoveAllByName(Student[] students, string name)
         {
-            //empty method
+            Console.WriteLine("this is a remove all by name method");
         }
     }
 }
