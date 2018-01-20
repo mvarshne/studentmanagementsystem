@@ -72,6 +72,8 @@ namespace StudentManagementSystem
             Console.WriteLine("this is a remove all by name method");
 
             Console.WriteLine("remove all by name is modified by support 1.0");
+
+            Console.WriteLine("line 1 added by remove all by name in support 1.0");
         }
     }
 }
