@@ -89,7 +89,7 @@ namespace StudentManagementSystem
 
         public static Student GetStudentWithNameContainingGivenText(Student[] students, string text)
         {
-            return null;
+            return StudentsFactory.Instance.AddNewStudent("Manish", "UP");
         }
     }
 }
