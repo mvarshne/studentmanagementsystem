@@ -86,5 +86,10 @@ namespace StudentManagementSystem
             Console.WriteLine("this will return the student with longest name.")
             return null;
         }
+
+        public static Student GetStudentWithSmallestName(Student[] students)
+        {
+            return null;
+        }
     }
 }
