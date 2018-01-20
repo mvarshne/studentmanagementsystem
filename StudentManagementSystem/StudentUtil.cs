@@ -73,5 +73,10 @@ namespace StudentManagementSystem
 
             Console.WriteLine("remove all by name is modified by support_1.0_merge_20Jan. Modified the same line again");
         }
+
+        public static void RemoveAllByState(Student[] students, string state)
+        {
+
+        }
     }
 }
