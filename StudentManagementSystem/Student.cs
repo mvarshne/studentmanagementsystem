@@ -18,5 +18,10 @@ namespace StudentManagementSystem
             this.Name = name;
             this.State = state;
         }
+
+        public override string ToString()
+        {
+            return "Id: " + this.Id + ", Name: " + this.Name + ", State:" + this.State;
+        }
     }
 }
